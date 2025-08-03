@@ -1,10 +1,13 @@
 # ClimateLens: A Carbon Impact Estimator for Global Supply Chains
 
-#### Video Demo: <[URL HERE](https://youtu.be/Fb3WBQ8ODUk)>
+#### Video Demo: <[CLICK HERE](https://youtu.be/Fb3WBQ8ODUk)>
 #### GitHub: [alicepigelet](https://github.com/alicepigelet)
 #### edX Username: 2505_TGHO
 #### Location: Saint-Gervais les Bains, France
 #### Date: August 2, 2025
+
+<img src="https://github.com/alicepigelet/Porous-Material-Energy-Project/blob/main/There%20is%20no%20planet%20B.png" alt="Alt Text" width="200" align="left" />
+<br clear="all"/>
 
 ---
 
