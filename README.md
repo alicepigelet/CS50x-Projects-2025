@@ -6,7 +6,7 @@
 #### Location: Saint-Gervais les Bains, France
 #### Date: August 2, 2025
 
-<img src="https://github.com/alicepigelet/Porous-Material-Energy-Project/blob/main/There%20is%20no%20planet%20B.png" alt="Alt Text" width="200" align="left" />
+<img src="CS50x.pdf" alt="Alt Text" width="200" align="left" />
 <br clear="all"/>
 
 ---
