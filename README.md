@@ -6,7 +6,7 @@
 #### Location: Saint-Gervais les Bains, France
 #### Date: August 2, 2025
 
-<img src="CS50x.pdf" alt="Alt Text" width="200" align="left" />
+<img src="CS50x.heic" alt="Alt Text" width="200" align="left" />
 <br clear="all"/>
 
 ---
